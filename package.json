@@ -13,9 +13,9 @@
     "@emotion/styled": "^11.10.4",
     "@fontsource/roboto": "^4.5.8",
     "@mui/material": "^5.10.3",
-    "next": "^12.2.6-canary.8",
-    "react": "^0.0.0-experimental-9ff738f53-20220826",
-    "react-dom": "^0.0.0-experimental-9ff738f53-20220826"
+    "next": "canary",
+    "react": "experimental",
+    "react-dom": "experimental"
   },
   "devDependencies": {
     "eslint": "8.23.0",
