@@ -1,0 +1,24 @@
+{
+  "name": "rsc-next-loading-mvr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/material": "^5.10.3",
+    "next": "^12.2.6-canary.8",
+    "react": "^0.0.0-experimental-9ff738f53-20220826",
+    "react-dom": "^0.0.0-experimental-9ff738f53-20220826"
+  },
+  "devDependencies": {
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5"
+  }
+}
